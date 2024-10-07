@@ -15,7 +15,7 @@ if(xpHeroi <= 1000 ){
 } else if(xpHeroi >= 8001 && xpHeroi < 9000 ){
     classeHeroi = 'Ascendente';
 } else if(xpHeroi >= 9001 && xpHeroi < 10000 ){
-    classeHeroi = 'Imortal';
+    classeHeroi = 'Imortal'; 
 } else if(xpHeroi >= 10001){
     classeHeroi = 'Radiante';
 }
